@@ -1,0 +1,30 @@
+body{
+    text-align:center
+}
+header{
+    background-color: rgb(39, 24, 110);
+    color: rgb(212, 188, 90);
+
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(26, 23, 20);
+}
+img{
+    height: 230px;
+    width: 230;
+    border-radius: 100%;
+}
+#portFolio{
+    background-color: rgb(14, 144, 144);
+    padding: 10px;
+}
+footer{
+    background-color: rgba(31, 24, 131, 0.819);
+    color: rgb(89, 53, 6);
+    padding: 10px;
+}
